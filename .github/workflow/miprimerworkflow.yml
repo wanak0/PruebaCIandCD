@@ -1,4 +1,4 @@
-name: miprimerworkflow
+name: miprimerworkflow-1
 run-name: ${{  github.actor  }} is learning GitHubActions
 on: [push]
 jobs:
